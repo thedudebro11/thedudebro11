@@ -2,5 +2,6 @@
 Full-stack developer | Privacy-focused builder | Creator of SafeSteps, Phantom Watcher & more.
 - 🔒 Building secure & ethical tech (E2EE, Supabase RLS, React Native)
 - 🚀 Portfolio: [my-portfolio repo link]
-- 📱 Latest build: [SafeSteps-App [link](https://github.com/thedudebro11/SafeSteps-App)]
+- 📱 Latest builds: [SafeSteps-App [link](https://github.com/thedudebro11/SafeSteps-App)]                                          [Phantom Watcher[link](https://github.com/thedudebro11/phantom-watcher))]
+- [Phantom Watcher[link](https://github.com/thedudebro11/digital-blacksite-protocol))]
 - 💡 Currently learning: DevSecOps & local AI tooling
